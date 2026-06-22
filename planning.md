@@ -10,33 +10,55 @@ I chose the art-commerce community because I love creating art in my free time a
 
 ### `analysis`
 
-An argument based on economic metrics--such as overhead, hourly rates, and market data--to logically evaluate the systemic impact of art pricing.
+**Definition**
+An argument or case study based on economic metrics—such as overhead, hourly rates, and market data—to logically evaluate the systemic impact of art pricing, including first-person accounts where a creator uses their own transactional data or calculated labor costs to illustrate a broader business reality.
+
+**Key Indicators**
+
+- Mention of specific numbers, pricing data, or monetary values ($150, £100, 20%).
+- Logical breakdowns of product margins, supply/demand mechanics, or volume sales vs. originals.
+- Concrete math evaluating time spent, material overhead, or labor value.
 
 **Examples**
 
-"We have to look at the basic math here. If a piece takes 10 hours to paint, using a $15/hour federal minimum wage standard means the baseline labor cost is $150. When you factor in a 15% self-employment tax and the cost of canvas and physical acrylics, selling that piece for anything less than $200 means the artist is literally operating at a financial loss."
+- "We have to look at the basic math here. If a piece takes 10 hours to paint, using a $15/hour federal minimum wage standard means the baseline labor cost is $150. When you factor in a 15% self-employment tax and the cost of canvas and physical acrylics, selling that piece for anything less than $200 means the artist is literally operating at a financial loss."
+- "The issue with underpricing is how it shifts consumer expectations across the broader digital market. When platforms like Fiverr normalize $10 logos, it skews the perceived value of creative assets, forcing professional freelancers to compete against unsustainable pricing structures that don't align with local cost-of-living metrics."
 
-"The issue with underpricing is how it shifts consumer expectations across the broader digital market. When platforms like Fiverr normalize $10 logos, it skews the perceived value of creative assets, forcing professional freelancers to compete against unsustainable pricing structures that don't align with local cost-of-living metrics."
+---
 
 ### `hot-take`
 
-An assertion or generalization about how the art industry "should" work, stated confidently as a fact but missing any supporting data or evidence.
+**Definition**
+An assertion or generalization about how the art industry "should" work, stated confidently as a fact but missing supporting data or evidence, which includes general business advice presented without metrics and short conversational commentary passing judgment on industry behavior.
+
+**Key Indicators**
+
+- Absolute language or moral imperatives like _should_, _always_, _never_, _must_, or _it's unethical_.
+- Sweeping generalizations about what "consumers," "the public," or "artists" want or do.
+- Business advice (e.g., "sell prints," "tier your pricing") stated as a universal rule without specific financial metrics.
 
 **Examples**
 
-"If you are a hobbyist selling full digital illustrations for $5, you are single-handedly destroying the freelance art industry. People who do this lack any self-respect and should be banned from posting in public commission spaces altogether."
+- "If you are a hobbyist selling full digital illustrations for $5, you are single-handedly destroying the freelance art industry. People who do this lack any self-respect and should be banned from posting in public commission spaces altogether."
+- "Real art should be accessible to everyday working-class people, not just rich elites. If an artist refuses to lower their prices for someone who genuinely loves their work but is broke, they care way more about greed than the actual spirit of creativity."
 
-"Real art should be accessible to everyday working-class people, not just rich elites. If an artist refuses to lower their prices for someone who genuinely loves their work but is broke, they care way more about greed than the actual spirit of creativity."
+---
 
 ### `reaction`
 
-A subjective expression of a specific user's personal emotions, anxieties, or lived experiences, typically framed in the first person.
+**Definition**
+A subjective expression of a specific user's personal emotions, anxieties, or lived experiences typically framed in the first person, covering localized conversational expressions such as peer-to-peer encouragement, direct practical advice, or the sharing of specific external links.
+
+**Key Indicators**
+
+- First-person framing focused on immediate emotions, anxieties, personal dreams, or validation.
+- Supportive, empathetic peer communication or highly localized advice (e.g., "try a local pet festival").
+- Sharing concrete references, tool directories, or links as a helpful peer rather than a structural critique.
 
 **Examples**
 
-"Ugh, I honestly want to cry right now. I just spent three whole days on a custom commission and the client asked if I could drop the price from $40 to $15 because it's 'just a hobby' for me. It feels so insulting and makes me want to just lock my tablet away and never post my art online again."
-
-"I feel so awkward right now because I really want to commission this illustrator whose work I adore, but I'm just a student and can't afford their standard rates. I want to ask if they offer simpler, cheaper options like quick sketches, but I’m terrified of offending them or looking like a choosing beggar."
+- "Ugh, I honestly want to cry right now. I just spent three whole days on a custom commission and the client asked if I could drop the price from $40 to $15 because it's 'just a hobby' for me. It feels so insulting and makes me want to just lock my tablet away and never post my art online again."
+- "I feel so awkward right now because I really want to commission this illustrator whose work I adore, but I'm just a student and can't afford their standard rates. I want to ask if they offer simpler, cheaper options like quick sketches, but I’m terrified of offending them or looking like a choosing beggar."
 
 ## Hard edge cases
 
